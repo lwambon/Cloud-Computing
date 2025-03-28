@@ -44,6 +44,15 @@ Mainframe computing in the 1950s and the internet explosion in the 1990s came to
 
 These days, cloud computing is pervasive, driving a wide range of services across markets and transforming the processing, storage, and retrieval of data
 
+## History
+
+MainFrames->Start of automation phase,localized infrastructure(1950s)  
+Rise of Pcs->rise in demand of personal computers,decentralized computing, birth of IT Services Industries(1960s)  
+Client/Server Architecture->virtual private network offered, demand for high band width,dot com revolution(1990s)  
+Hosted Environment->It infrastructure outosourcing,increase use of virtulization(2000s)  
+Cloud Computing->emergence of'as a service',Delivery of Paas,Iaas,Saas , collaborative and utility computing(beyond 2010)
+
+
 ## What Are The Types of Cloud Computing Services?
 
 Infrastructure as a Service (IaaS)  
@@ -177,10 +186,3 @@ Data Analytics: Cloud-based platforms facilitate big data analytics, allowing or
 
 Disaster Recovery: Cloud-based disaster recovery solutions offer cost-effective data replication and backup, ensuring quick recovery in case of system failures or disasters.
 
-## History
-
-MainFrames->Start of automation phase,localized infrastructure(1950s)  
-Rise of Pcs->rise in demand of personal computers,decentralized computing, birth of IT Services Industries(1960s)  
-Client/Server Architecture->virtual private network offered, demand for high band width,dot com revolution(1990s)  
-Hosted Environment->It infrastructure outosourcing,increase use of virtulization(2000s)  
-Cloud Computing->emergence of'as a service',Delivery of Paas,Iaas,Saas , collaborative and utility computing(beyond 2010)
