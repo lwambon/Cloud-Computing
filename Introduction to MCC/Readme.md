@@ -52,7 +52,6 @@ Client/Server Architecture->virtual private network offered, demand for high ban
 Hosted Environment->It infrastructure outosourcing,increase use of virtulization(2000s)  
 Cloud Computing->emergence of'as a service',Delivery of Paas,Iaas,Saas , collaborative and utility computing(beyond 2010)
 
-
 ## What Are The Types of Cloud Computing Services?
 
 Infrastructure as a Service (IaaS)  
@@ -185,4 +184,3 @@ Streamlined Software Access: Software as a Service (SaaS) provides subscription-
 Data Analytics: Cloud-based platforms facilitate big data analytics, allowing organizations to process and derive insights from large datasets efficiently.
 
 Disaster Recovery: Cloud-based disaster recovery solutions offer cost-effective data replication and backup, ensuring quick recovery in case of system failures or disasters.
-
