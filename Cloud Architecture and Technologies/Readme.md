@@ -1,4 +1,5 @@
- ## objectives
+## objectives
+
 ✅Virtualization and Containerization(Docker, Kubernetes)  
 ✅Microservices and serverless computing  
-✅Cloud Security and Compliances  
+✅Cloud Security and Compliances
