@@ -1,6 +1,6 @@
 # CLOUD COMPUTING
 
-## Course Outline
+# Course Outline
 
 ✅Introduction to Cloud Computing  
 ✅Cloud Architecture and Technologies  
@@ -11,7 +11,7 @@
 
 # Introduction to Cloud Computing
 
-#### Objectives
+## Objectives
 
 ✅Cloud Service Models  
 ✅Benefits and Challenges of Cloud adoption  
@@ -156,13 +156,13 @@ It is the responsibility of the cloud provider to maintain software versions and
 
 ### Issues
 
-Lack of portability between PaaS clouds
+Lack of portability between PaaS clouds  
 Although standard languages are used, yet the implementations of platform services may vary. For example, file, queue, or hash table interfaces of one platform may differ from another, making it difficult to transfer the workloads from one platform to another.
 
-Event based processor scheduling
+Event based processor scheduling  
 The PaaS applications are event-oriented which poses resource constraints on applications, i.e., they have to answer a request in a given interval of time.
 
-Security engineering of PaaS applications
+Security engineering of PaaS applications  
 Since PaaS applications are dependent on network, they must explicitly use cryptography and manage security exposures.
 
 ### Characteristics
